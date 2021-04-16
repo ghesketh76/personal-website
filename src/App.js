@@ -8,6 +8,7 @@ function App() {
       <h1>This is my website</h1>
       <h2>This is where i will put a blurb about myself</h2>
       <h3>put a picture of myself here</h3>
+      <p>This will be a paragraph about myself</p>
     </div>
   );
 }
