@@ -8,6 +8,7 @@ export default function Portfolio() {
                 <li>project 2</li>
                 <li>project 3</li>
             </ul>
+            <p>Project description</p>
         </div>
     )
 }
