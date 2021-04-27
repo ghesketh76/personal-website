@@ -1,7 +1,10 @@
-import logo from './logo.svg';
+
 import './App.css';
+import {data} from '../src/components/data'
 
 function App() {
+
+  
   return (
     <div className="App">
       <header>Up here will be some buttons to click to take you to various parts of the site</header>
