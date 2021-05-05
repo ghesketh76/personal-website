@@ -5,9 +5,9 @@ export default function Portfolio() {
         <div>
             <h2>I will give a description of my coding expereince and a primer to my projects</h2>
             <ul>
-                <li>project 1</li>
-                <li>project 2</li>
-                <li>project 3</li>
+                <li>Palmares</li>
+                <li>Grupetto</li>
+                <li>MyGolfDashboard</li>
             </ul>
             <p>Project description</p>
         </div>
