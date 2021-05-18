@@ -16,7 +16,7 @@ function App() {
     <div className="App">
       <Header name={name} fullName={fullName} occupation={occupation}/>
       <Body name={name} fullName={fullName} occupation={occupation}/>
-      <Contact />
+      <Contact name={name} fullName={fullName} occupation={occupation}/>
       <Footer name={name} fullName={fullName} occupation={occupation}/>
     </div>
   );
