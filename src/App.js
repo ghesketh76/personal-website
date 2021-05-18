@@ -4,6 +4,7 @@ import {data} from '../src/components/data'
 import Header from './components/Header';
 import Footer from './components/footer';
 import Body from './components/Body';
+import Contact from './components/Contact'
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
     <div className="App">
       <Header name={name} fullName={fullName} occupation={occupation}/>
       <Body name={name} fullName={fullName} occupation={occupation}/>
+      <Contact />
       <Footer name={name} fullName={fullName} occupation={occupation}/>
     </div>
   );
