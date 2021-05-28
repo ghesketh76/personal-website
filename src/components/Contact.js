@@ -6,7 +6,7 @@ export default function Contact() {
             <ul>
                 <li><a href="https://www.linkedin.com/in/granthesketh/">LinkedIn</a></li>       
                 <li><a href="https://github.com/ghesketh76">Github</a></li>       
-                <li><a href="ghesketh76@gmail.com">Gmail</a></li>
+                <li><a href="mailto: ghesketh76@gmail.com">Gmail</a></li>
             </ul>
         </div>
     )
