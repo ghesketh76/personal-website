@@ -4,3 +4,9 @@
   flex-direction: column;
 }
 
+.header {
+  background-color: purple;
+  flex-direction: row;
+  text-align: end;
+}
+
