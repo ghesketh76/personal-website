@@ -10,3 +10,8 @@
   text-align: end;
 }
 
+.footer {
+  background-color: purple;
+  flex-direction: row;
+  text-align: end;
+}
